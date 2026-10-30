@@ -48,17 +48,14 @@ The virtual machine provides a controlled environment for performing cybersecuri
 
 The first screenshot represents the beginning of the Cybersecurity Lab setup.
 
-**Screenshot:**  
-`1-screenshot-title-image.png`
-
+![Lab Setup](1-screenshot-title-image.png)
 ---
 
 ### 2. Network Settings
 
 The network settings of the Kali Linux virtual machine were checked and configured as required for the lab environment.
 
-**Screenshot:**  
-`2-screenshot-network-settings-1.png`
+![Network Settings](2-screenshot-network-settings-1.png)
 
 ---
 
@@ -66,8 +63,7 @@ The network settings of the Kali Linux virtual machine were checked and configur
 
 The Kali Linux desktop environment was opened and verified successfully after starting the virtual machine.
 
-**Screenshot:**  
-`3-screenshot-kali-linux.png`
+![Kali Linux Environment](3-screenshot-kali-linux.png)`
 
 ---
 
@@ -75,8 +71,7 @@ The Kali Linux desktop environment was opened and verified successfully after st
 
 The network configuration of Kali Linux was checked to verify the available network connection and settings.
 
-**Screenshot:**  
-`4-screenshot-kali-network-settings.png`
+![Kali Linux Network Settings](4-screenshot-kali-network-settings.png)
 
 ---
 
